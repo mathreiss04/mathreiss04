@@ -51,7 +51,7 @@ Today, I’m focusing on building real-world data solutions: from ingestion and 
 I'm currently building technical projects and actively engaging with the data community. I'm open to remote and global opportunities in **Data Engineering**, **Data Analysis**, and **ML applications**.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/matheusreis-silva)
-- 🖥️ [Portfolio (Streamlit)]((https://matheus-reis.streamlit.app))
+- 🖥️ [Portfolio (Streamlit)](https://matheus-reis.streamlit.app)
 - 📧 matheusreissilva800@gmail.com
 
 ---
