@@ -11,7 +11,7 @@ Today, I’m focusing on building real-world data solutions: from ingestion and 
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Python, SQL  
-- **Data Tools:** Pandas, NumPy, Scikit-Learn, Power BI, Tableau  
+- **Data Tools:** Pandas, NumPy, Scikit-Learn, Power BI  
 - **Databases:** SQLite, PostgreSQL, SQL Server  
 - **Automation & Engineering:** APIs, ETL, Airflow (in progress)  
 - **Cloud:** Microsoft Azure (AZ-900 Certified)  
