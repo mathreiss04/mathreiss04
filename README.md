@@ -52,7 +52,7 @@ I'm currently building technical projects and actively engaging with the data co
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/matheusreis-silva)
 - 🖥️ [Portfolio (Streamlit)](https://matheus-reis.streamlit.app)
-- 📧 matheusreissilva800@gmail.com
+- 📧 mreis.silva04@gmail.com
 
 ---
 
